@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diana\\source\\repos\\LibraryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{978D6B71-86A5-40D1-A67B-F21555887BC9}|LibraryManagement.UI\\LibraryManagement.UI.csproj|c:\\users\\diana\\source\\repos\\librarymanagement\\librarymanagement.ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978D6B71-86A5-40D1-A67B-F21555887BC9}|LibraryManagement.UI\\LibraryManagement.UI.csproj|solutionrelative:librarymanagement.ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979CF0DA-23F9-4208-B20A-849C0005437A}|LibraryManagement.Entities\\LibraryManagement.Entities.csproj|c:\\users\\diana\\source\\repos\\librarymanagement\\librarymanagement.entities\\userbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979CF0DA-23F9-4208-B20A-849C0005437A}|LibraryManagement.Entities\\LibraryManagement.Entities.csproj|solutionrelative:librarymanagement.entities\\userbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531EC1E8-D5EC-462A-B03E-8B132D26D48C}|LibraryManagement.DataAccess\\LibraryManagement.DataAccess.csproj|c:\\users\\diana\\source\\repos\\librarymanagement\\librarymanagement.dataaccess\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531EC1E8-D5EC-462A-B03E-8B132D26D48C}|LibraryManagement.DataAccess\\LibraryManagement.DataAccess.csproj|solutionrelative:librarymanagement.dataaccess\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531EC1E8-D5EC-462A-B03E-8B132D26D48C}|LibraryManagement.DataAccess\\LibraryManagement.DataAccess.csproj|c:\\users\\diana\\source\\repos\\librarymanagement\\librarymanagement.dataaccess\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531EC1E8-D5EC-462A-B03E-8B132D26D48C}|LibraryManagement.DataAccess\\LibraryManagement.DataAccess.csproj|solutionrelative:librarymanagement.dataaccess\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B663CE13-3CF0-4F1F-A3AA-C4EA5FF8427C}|LibraryManagement.BusinessLogic\\LibraryManagement.BusinessLogic.csproj|c:\\users\\diana\\source\\repos\\librarymanagement\\librarymanagement.businesslogic\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B663CE13-3CF0-4F1F-A3AA-C4EA5FF8427C}|LibraryManagement.BusinessLogic\\LibraryManagement.BusinessLogic.csproj|solutionrelative:librarymanagement.businesslogic\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978D6B71-86A5-40D1-A67B-F21555887BC9}|LibraryManagement.UI\\LibraryManagement.UI.csproj|c:\\users\\diana\\source\\repos\\librarymanagement\\librarymanagement.ui\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978D6B71-86A5-40D1-A67B-F21555887BC9}|LibraryManagement.UI\\LibraryManagement.UI.csproj|solutionrelative:librarymanagement.ui\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979CF0DA-23F9-4208-B20A-849C0005437A}|LibraryManagement.Entities\\LibraryManagement.Entities.csproj|c:\\users\\diana\\source\\repos\\librarymanagement\\librarymanagement.entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979CF0DA-23F9-4208-B20A-849C0005437A}|LibraryManagement.Entities\\LibraryManagement.Entities.csproj|solutionrelative:librarymanagement.entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979CF0DA-23F9-4208-B20A-849C0005437A}|LibraryManagement.Entities\\LibraryManagement.Entities.csproj|c:\\users\\diana\\source\\repos\\librarymanagement\\librarymanagement.entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979CF0DA-23F9-4208-B20A-849C0005437A}|LibraryManagement.Entities\\LibraryManagement.Entities.csproj|solutionrelative:librarymanagement.entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978D6B71-86A5-40D1-A67B-F21555887BC9}|LibraryManagement.UI\\LibraryManagement.UI.csproj|C:\\Users\\diana\\source\\repos\\LibraryManagement\\librarymanagement.ui\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{978D6B71-86A5-40D1-A67B-F21555887BC9}|LibraryManagement.UI\\LibraryManagement.UI.csproj|solutionrelative:librarymanagement.ui\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978D6B71-86A5-40D1-A67B-F21555887BC9}|LibraryManagement.UI\\LibraryManagement.UI.csproj|c:\\users\\diana\\source\\repos\\librarymanagement\\librarymanagement.ui\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978D6B71-86A5-40D1-A67B-F21555887BC9}|LibraryManagement.UI\\LibraryManagement.UI.csproj|solutionrelative:librarymanagement.ui\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978D6B71-86A5-40D1-A67B-F21555887BC9}|LibraryManagement.UI\\LibraryManagement.UI.csproj|C:\\Users\\diana\\source\\repos\\LibraryManagement\\librarymanagement.ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{978D6B71-86A5-40D1-A67B-F21555887BC9}|LibraryManagement.UI\\LibraryManagement.UI.csproj|solutionrelative:librarymanagement.ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\LibraryManagement\\LibraryManagement.DataAccess\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.DataAccess\\LibraryContext.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\LibraryManagement\\LibraryManagement.DataAccess\\LibraryContext.cs",
+              "RelativeToolTip": "LibraryManagement.DataAccess\\LibraryContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA7wCAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T08:22:54.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserBooks.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\LibraryManagement\\LibraryManagement.Entities\\UserBooks.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Entities\\UserBooks.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\LibraryManagement\\LibraryManagement.Entities\\UserBooks.cs",
+              "RelativeToolTip": "LibraryManagement.Entities\\UserBooks.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvwsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T08:22:27.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\LibraryManagement\\LibraryManagement.DataAccess\\UserRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.DataAccess\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\LibraryManagement\\LibraryManagement.DataAccess\\UserRepository.cs",
+              "RelativeToolTip": "LibraryManagement.DataAccess\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T08:17:16.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\LibraryManagement\\LibraryManagement.BusinessLogic\\UserService.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.BusinessLogic\\UserService.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\LibraryManagement\\LibraryManagement.BusinessLogic\\UserService.cs",
+              "RelativeToolTip": "LibraryManagement.BusinessLogic\\UserService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T07:29:21.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\LibraryManagement\\LibraryManagement.Entities\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\LibraryManagement\\LibraryManagement.Entities\\Book.cs",
+              "RelativeToolTip": "LibraryManagement.Entities\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T08:17:10.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\LibraryManagement\\LibraryManagement.Entities\\User.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Entities\\User.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\LibraryManagement\\LibraryManagement.Entities\\User.cs",
+              "RelativeToolTip": "LibraryManagement.Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T08:17:08.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserForm.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\LibraryManagement\\LibraryManagement.UI\\UserForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.UI\\UserForm.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\LibraryManagement\\LibraryManagement.UI\\UserForm.cs",
+              "RelativeToolTip": "LibraryManagement.UI\\UserForm.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T18:25:49.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\LibraryManagement\\LibraryManagement.UI\\UserForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.UI\\UserForm.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\LibraryManagement\\LibraryManagement.UI\\UserForm.cs [Design]",
+              "RelativeToolTip": "LibraryManagement.UI\\UserForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:34:15.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\LibraryManagement\\LibraryManagement.UI\\AdminForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.UI\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\LibraryManagement\\LibraryManagement.UI\\AdminForm.cs",
+              "RelativeToolTip": "LibraryManagement.UI\\AdminForm.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA3wCkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:40:11.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\LibraryManagement\\LibraryManagement.UI\\Form1.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\LibraryManagement\\LibraryManagement.UI\\Form1.cs",
+              "RelativeToolTip": "LibraryManagement.UI\\Form1.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:32:49.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\LibraryManagement\\LibraryManagement.UI\\Form1.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\LibraryManagement\\LibraryManagement.UI\\Form1.cs [Design]",
+              "RelativeToolTip": "LibraryManagement.UI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:24:31.01Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+C:\Users\diana\source\repos\LibraryManagement\LibraryManagement.BusinessLogic\obj\Debug\net8.0\LibraryManagement.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\source\repos\LibraryManagement\LibraryManagement.BusinessLogic\obj\Debug\net8.0\LibraryManagement.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\diana\source\repos\LibraryManagement\LibraryManagement.BusinessLogic\obj\Debug\net8.0\LibraryManagement.BusinessLogic.AssemblyInfo.cs
+C:\Users\diana\source\repos\LibraryManagement\LibraryManagement.BusinessLogic\obj\Debug\net8.0\LibraryManagement.BusinessLogic.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+C:\Users\diana\source\repos\LibraryManagement\LibraryManagement.Entities\bin\Debug\net8.0-windows\LibraryManagement.Entities.deps.json
+C:\Users\diana\source\repos\LibraryManagement\LibraryManagement.Entities\bin\Debug\net8.0-windows\LibraryManagement.Entities.dll
+C:\Users\diana\source\repos\LibraryManagement\LibraryManagement.Entities\bin\Debug\net8.0-windows\LibraryManagement.Entities.pdb
+C:\Users\diana\source\repos\LibraryManagement\LibraryManagement.Entities\obj\Debug\net8.0-windows\LibraryManagement.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\source\repos\LibraryManagement\LibraryManagement.Entities\obj\Debug\net8.0-windows\LibraryManagement.Entities.AssemblyInfoInputs.cache
+C:\Users\diana\source\repos\LibraryManagement\LibraryManagement.Entities\obj\Debug\net8.0-windows\LibraryManagement.Entities.AssemblyInfo.cs
+C:\Users\diana\source\repos\LibraryManagement\LibraryManagement.Entities\obj\Debug\net8.0-windows\LibraryManagement.Entities.csproj.CoreCompileInputs.cache
+C:\Users\diana\source\repos\LibraryManagement\LibraryManagement.Entities\obj\Debug\net8.0-windows\LibraryManagement.Entities.dll
+C:\Users\diana\source\repos\LibraryManagement\LibraryManagement.Entities\obj\Debug\net8.0-windows\refint\LibraryManagement.Entities.dll
+C:\Users\diana\source\repos\LibraryManagement\LibraryManagement.Entities\obj\Debug\net8.0-windows\LibraryManagement.Entities.pdb
+C:\Users\diana\source\repos\LibraryManagement\LibraryManagement.Entities\obj\Debug\net8.0-windows\ref\LibraryManagement.Entities.dll

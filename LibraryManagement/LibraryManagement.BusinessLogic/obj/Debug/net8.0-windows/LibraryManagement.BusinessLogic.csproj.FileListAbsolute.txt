@@ -1,0 +1,17 @@
+C:\Users\diana\source\repos\LibraryManagement\LibraryManagement.BusinessLogic\bin\Debug\net8.0-windows\LibraryManagement.BusinessLogic.deps.json
+C:\Users\diana\source\repos\LibraryManagement\LibraryManagement.BusinessLogic\bin\Debug\net8.0-windows\LibraryManagement.BusinessLogic.dll
+C:\Users\diana\source\repos\LibraryManagement\LibraryManagement.BusinessLogic\bin\Debug\net8.0-windows\LibraryManagement.BusinessLogic.pdb
+C:\Users\diana\source\repos\LibraryManagement\LibraryManagement.BusinessLogic\bin\Debug\net8.0-windows\LibraryManagement.DataAccess.dll
+C:\Users\diana\source\repos\LibraryManagement\LibraryManagement.BusinessLogic\bin\Debug\net8.0-windows\LibraryManagement.Entities.dll
+C:\Users\diana\source\repos\LibraryManagement\LibraryManagement.BusinessLogic\bin\Debug\net8.0-windows\LibraryManagement.DataAccess.pdb
+C:\Users\diana\source\repos\LibraryManagement\LibraryManagement.BusinessLogic\bin\Debug\net8.0-windows\LibraryManagement.Entities.pdb
+C:\Users\diana\source\repos\LibraryManagement\LibraryManagement.BusinessLogic\obj\Debug\net8.0-windows\LibraryManagement.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\diana\source\repos\LibraryManagement\LibraryManagement.BusinessLogic\obj\Debug\net8.0-windows\LibraryManagement.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\source\repos\LibraryManagement\LibraryManagement.BusinessLogic\obj\Debug\net8.0-windows\LibraryManagement.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\diana\source\repos\LibraryManagement\LibraryManagement.BusinessLogic\obj\Debug\net8.0-windows\LibraryManagement.BusinessLogic.AssemblyInfo.cs
+C:\Users\diana\source\repos\LibraryManagement\LibraryManagement.BusinessLogic\obj\Debug\net8.0-windows\LibraryManagement.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\diana\source\repos\LibraryManagement\LibraryManagement.BusinessLogic\obj\Debug\net8.0-windows\LibraryM.DFD5D9B2.Up2Date
+C:\Users\diana\source\repos\LibraryManagement\LibraryManagement.BusinessLogic\obj\Debug\net8.0-windows\LibraryManagement.BusinessLogic.dll
+C:\Users\diana\source\repos\LibraryManagement\LibraryManagement.BusinessLogic\obj\Debug\net8.0-windows\refint\LibraryManagement.BusinessLogic.dll
+C:\Users\diana\source\repos\LibraryManagement\LibraryManagement.BusinessLogic\obj\Debug\net8.0-windows\LibraryManagement.BusinessLogic.pdb
+C:\Users\diana\source\repos\LibraryManagement\LibraryManagement.BusinessLogic\obj\Debug\net8.0-windows\ref\LibraryManagement.BusinessLogic.dll
