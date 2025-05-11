@@ -13,7 +13,8 @@ namespace LibraryManagement.DataAccess
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseNpgsql("Host=localhost;Database=librarydb;Username=postgres;Password=BC22DRS.ddlk17");
+            optionsBuilder.UseNpgsql("Host=localhost;Database=librarydb;Username=postgres;Password=YOUR_PASSWORD");
+            // Replace YOUR_PASSWORD with your actual PostgreSQL password
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
