@@ -42,13 +42,14 @@
             label3 = new Label();
             label4 = new Label();
             label5 = new Label();
+            Update = new Button();
             ((System.ComponentModel.ISupportInitialize)Books).BeginInit();
             SuspendLayout();
             // 
             // Books
             // 
             Books.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            Books.Location = new Point(46, 31);
+            Books.Location = new Point(46, 21);
             Books.Name = "Books";
             Books.RowHeadersWidth = 51;
             Books.Size = new Size(710, 188);
@@ -57,7 +58,7 @@
             // 
             // searchButton
             // 
-            searchButton.Location = new Point(67, 242);
+            searchButton.Location = new Point(67, 229);
             searchButton.Name = "searchButton";
             searchButton.Size = new Size(201, 29);
             searchButton.TabIndex = 1;
@@ -67,7 +68,7 @@
             // 
             // addBook
             // 
-            addBook.Location = new Point(322, 242);
+            addBook.Location = new Point(321, 229);
             addBook.Name = "addBook";
             addBook.Size = new Size(191, 29);
             addBook.TabIndex = 2;
@@ -77,7 +78,7 @@
             // 
             // button1
             // 
-            button1.Location = new Point(593, 242);
+            button1.Location = new Point(589, 229);
             button1.Name = "button1";
             button1.Size = new Size(154, 29);
             button1.TabIndex = 3;
@@ -87,35 +88,35 @@
             // 
             // byAuthor
             // 
-            byAuthor.Location = new Point(143, 342);
+            byAuthor.Location = new Point(143, 319);
             byAuthor.Name = "byAuthor";
             byAuthor.Size = new Size(125, 27);
             byAuthor.TabIndex = 4;
             // 
             // byTitle
             // 
-            byTitle.Location = new Point(143, 288);
+            byTitle.Location = new Point(143, 275);
             byTitle.Name = "byTitle";
             byTitle.Size = new Size(125, 27);
             byTitle.TabIndex = 5;
             // 
             // title
             // 
-            title.Location = new Point(389, 292);
+            title.Location = new Point(388, 271);
             title.Name = "title";
             title.Size = new Size(124, 27);
             title.TabIndex = 6;
             // 
             // author
             // 
-            author.Location = new Point(389, 346);
+            author.Location = new Point(388, 315);
             author.Name = "author";
             author.Size = new Size(124, 27);
             author.TabIndex = 7;
             // 
             // stock
             // 
-            stock.Location = new Point(389, 402);
+            stock.Location = new Point(388, 359);
             stock.Name = "stock";
             stock.Size = new Size(124, 27);
             stock.TabIndex = 8;
@@ -123,7 +124,7 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(65, 345);
+            label1.Location = new Point(65, 322);
             label1.Name = "label1";
             label1.Size = new Size(72, 20);
             label1.TabIndex = 9;
@@ -132,7 +133,7 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(67, 295);
+            label2.Location = new Point(67, 282);
             label2.Name = "label2";
             label2.Size = new Size(55, 20);
             label2.TabIndex = 10;
@@ -141,7 +142,7 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(322, 295);
+            label3.Location = new Point(321, 274);
             label3.Name = "label3";
             label3.Size = new Size(38, 20);
             label3.TabIndex = 11;
@@ -150,7 +151,7 @@
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(322, 349);
+            label4.Location = new Point(321, 318);
             label4.Name = "label4";
             label4.Size = new Size(54, 20);
             label4.TabIndex = 12;
@@ -159,17 +160,28 @@
             // label5
             // 
             label5.AutoSize = true;
-            label5.Location = new Point(322, 405);
+            label5.Location = new Point(321, 362);
             label5.Name = "label5";
             label5.Size = new Size(45, 20);
             label5.TabIndex = 13;
             label5.Text = "Stock";
+            // 
+            // Update
+            // 
+            Update.Location = new Point(321, 405);
+            Update.Name = "Update";
+            Update.Size = new Size(192, 33);
+            Update.TabIndex = 14;
+            Update.Text = "Update book";
+            Update.UseVisualStyleBackColor = true;
+            Update.Click += Update_Click;
             // 
             // AdminForm
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(Update);
             Controls.Add(label5);
             Controls.Add(label4);
             Controls.Add(label3);
@@ -207,5 +219,6 @@
         private Label label3;
         private Label label4;
         private Label label5;
+        private Button Update;
     }
 }

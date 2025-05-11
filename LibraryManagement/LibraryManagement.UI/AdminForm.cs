@@ -19,6 +19,7 @@ namespace LibraryManagement.UI
         public AdminForm()
         {
             InitializeComponent();
+            LoadBooks();
         }
 
         private void LoadBooks()
@@ -50,7 +51,7 @@ namespace LibraryManagement.UI
         private void searchButton_Click(object sender, EventArgs e)
         {
             string title = byTitle.Text;
-            string author = byAuthor.Text; 
+            string author = byAuthor.Text;
             var results = _bookService.SearchBooks(title, author);
             Books.DataSource = results;
         }
@@ -63,6 +64,26 @@ namespace LibraryManagement.UI
                 int id = (int)Books.SelectedRows[0].Cells["Id"].Value;
                 _bookService.DeleteBook(id);
                 MessageBox.Show("Book deleted.");
+                LoadBooks();
+            }
+        }
+
+        private void Update_Click(object sender, EventArgs e)
+        {
+       
+            if (Books.SelectedRows.Count > 0)
+            {
+                int id = (int)Books.SelectedRows[0].Cells["Id"].Value;
+                var book = new Book
+                {
+                    id = id,
+                    title = title.Text,
+                    author = author.Text,
+                    stock = int.Parse(stock.Text),
+                    quantity = int.Parse(stock.Text)
+                };
+                _bookService.UpdateBook(book);
+                MessageBox.Show("Book updated.");
                 LoadBooks();
             }
         }

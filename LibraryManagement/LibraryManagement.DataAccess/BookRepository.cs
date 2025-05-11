@@ -30,7 +30,7 @@ namespace LibraryManagement.DataAccess
         {
             using var context = new LibraryContext();
             var book = context.Books.Find(bookId);
-            if (book != null)
+            if (book != null && book.quantity == book.stock)
             {
                 context.Books.Remove(book);
                 context.SaveChanges();
